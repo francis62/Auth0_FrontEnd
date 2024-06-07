@@ -1,2 +1,5 @@
-# auth0_react_spa
-React SPA with Auth0 and react-router-dom example project
+# Sistemas Distribuidos
+## Proyecto práctica Auth0 - Front End
+
+### Profesores: Alberto Cortez y Claudia Naveda
+### Alumno: Francisco Moyano
